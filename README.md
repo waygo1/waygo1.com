@@ -1,2 +1,2 @@
-# waygo1.com
+# waygo1.github.io
 student file
